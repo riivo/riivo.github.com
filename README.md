@@ -1,6 +1,4 @@
 Home page source
-http://riivo.github.io
+http://xc.ee
 
-Current homepage
-http://kodu.ut.ee/~riivokik/
 
